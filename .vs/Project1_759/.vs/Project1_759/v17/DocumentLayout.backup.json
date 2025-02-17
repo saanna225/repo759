@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sahan\\Documents\\HPC_759\\Project1_759\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40A04E53-B772-49D4-8E02-E651AC66F221}|Project1_759.vcxproj|C:\\Users\\sahan\\Documents\\HPC_759\\Project1_759\\task4.sh||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{40A04E53-B772-49D4-8E02-E651AC66F221}|Project1_759.vcxproj|solutionrelative:task4.sh||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "task4.sh",
+              "DocumentMoniker": "C:\\Users\\sahan\\Documents\\HPC_759\\Project1_759\\task4.sh",
+              "RelativeDocumentMoniker": "task4.sh",
+              "ToolTip": "C:\\Users\\sahan\\Documents\\HPC_759\\Project1_759\\task4.sh",
+              "RelativeToolTip": "task4.sh",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|",
+              "WhenOpened": "2025-02-06T04:20:13.502Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

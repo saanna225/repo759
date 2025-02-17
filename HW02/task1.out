@@ -1,0 +1,36 @@
+n ,time(ms)
+Running with n = 2^10 = 1024
+1024.
+Running with n = 2^11 = 2048
+2048.
+Running with n = 2^12 = 4096
+4096.
+Running with n = 2^13 = 8192
+8192.
+Running with n = 2^14 = 16384
+16384.
+Running with n = 2^15 = 32768
+32768.
+Running with n = 2^16 = 65536
+65536.
+Running with n = 2^17 = 131072
+131072.
+Running with n = 2^18 = 262144
+262144.
+Running with n = 2^19 = 524288
+524288.
+Running with n = 2^20 = 1048576
+1048576.
+Running with n = 2^21 = 2097152
+2097152.
+Running with n = 2^22 = 4194304
+4194304.
+Running with n = 2^23 = 8388608
+8388608.
+Running with n = 2^24 = 16777216
+16777216.
+Running with n = 2^25 = 33554432
+33554432.
+Running with n = 2^26 = 67108864
+67108864.
+Running with n = 2^27 = 134217728
