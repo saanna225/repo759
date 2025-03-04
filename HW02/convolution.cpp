@@ -1,6 +1,7 @@
 #include "convolution.h"
 #include <vector>
 
+
 using namespace std;
 
 void convolve(const float* image, float* output, std::size_t n, const float* mask, std::size_t m)

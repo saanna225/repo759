@@ -1,16 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\HW01",
-<<<<<<< HEAD
-    "\\HW01\\Project1_759",
-    "\\HW01\\Project1_759\\Debug"
+    "\\HW03"
   ],
-  "SelectedNode": "\\HW01\\task6.cpp",
-=======
-    "\\HW02"
-  ],
-  "SelectedNode": "\\HW02\\task1.py",
->>>>>>> 16e8c15 (HW01 and HW02 uploaded)
+  "SelectedNode": "\\HW03\\task3.cpp",
   "PreviewInSolutionExplorer": false
 }
