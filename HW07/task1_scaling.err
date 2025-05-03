@@ -1,0 +1,34 @@
+matmul.cu(7): error: declaration is incompatible with previous "shared" (declared at line 7)
+      extern __attribute__((shared)) T shared[];
+                                       ^
+          detected during:
+            instantiation of "void matmul_kernel(const T *, const T *, T *, unsigned int) [with T=float]" at line 44
+            instantiation of "void matmul_template(const T *, const T *, T *, unsigned int, unsigned int) [with T=float]" at line 53
+
+matmul.cu(7): warning #20042-D: a host variable("shared") redeclared with __shared__
+      extern __attribute__((shared)) T shared[];
+                                       ^
+          detected during:
+            instantiation of "void matmul_kernel(const T *, const T *, T *, unsigned int) [with T=float]" at line 44
+            instantiation of "void matmul_template(const T *, const T *, T *, unsigned int, unsigned int) [with T=float]" at line 53
+
+Remark: The warnings can be suppressed with "-diag-suppress <warning-number>"
+
+matmul.cu(7): warning #20042-D: a host variable("shared") redeclared with __shared__
+      extern __attribute__((shared)) T shared[];
+                                       ^
+          detected during:
+            instantiation of "void matmul_kernel(const T *, const T *, T *, unsigned int) [with T=double]" at line 44
+            instantiation of "void matmul_template(const T *, const T *, T *, unsigned int, unsigned int) [with T=double]" at line 56
+
+1 error detected in the compilation of "matmul.cu".
+/var/spool/slurmd/job2052056/slurm_script: line 25: ./task1: No such file or directory
+/var/spool/slurmd/job2052056/slurm_script: line 25: ./task1: No such file or directory
+/var/spool/slurmd/job2052056/slurm_script: line 25: ./task1: No such file or directory
+/var/spool/slurmd/job2052056/slurm_script: line 25: ./task1: No such file or directory
+/var/spool/slurmd/job2052056/slurm_script: line 25: ./task1: No such file or directory
+/var/spool/slurmd/job2052056/slurm_script: line 25: ./task1: No such file or directory
+/var/spool/slurmd/job2052056/slurm_script: line 25: ./task1: No such file or directory
+/var/spool/slurmd/job2052056/slurm_script: line 25: ./task1: No such file or directory
+/var/spool/slurmd/job2052056/slurm_script: line 25: ./task1: No such file or directory
+/var/spool/slurmd/job2052056/slurm_script: line 25: ./task1: No such file or directory

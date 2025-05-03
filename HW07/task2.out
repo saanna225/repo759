@@ -1,0 +1,318 @@
+Threads = 256
+Running with N = 1024
+Reduced sum: 5.75363
+Time Elapsed: 11.7883 ms
+
+
+Running with N = 2048
+Reduced sum: -0.432233
+Time Elapsed: 1.7623 ms
+
+
+Running with N = 4096
+Reduced sum: 53.216
+Time Elapsed: 0.93472 ms
+
+
+Running with N = 8192
+Reduced sum: -4.57585
+Time Elapsed: 0.887808 ms
+
+
+Running with N = 16384
+Reduced sum: 141.484
+Time Elapsed: 0.80384 ms
+
+
+Running with N = 32768
+Reduced sum: 79.5724
+Time Elapsed: 0.793216 ms
+
+
+Running with N = 65536
+Reduced sum: 128.044
+Time Elapsed: 0.823104 ms
+
+
+Running with N = 131072
+Reduced sum: -65.8466
+Time Elapsed: 0.807872 ms
+
+
+Running with N = 262144
+Reduced sum: -66.3546
+Time Elapsed: 0.805184 ms
+
+
+Running with N = 524288
+Reduced sum: 391.629
+Time Elapsed: 0.911968 ms
+
+
+Running with N = 1048576
+Reduced sum: 658.038
+Time Elapsed: 0.83472 ms
+
+
+Running with N = 2097152
+Reduced sum: 290.444
+Time Elapsed: 0.952736 ms
+
+
+Running with N = 4194304
+Reduced sum: 392.027
+Time Elapsed: 1.02941 ms
+
+
+Running with N = 8388608
+Reduced sum: 1177.29
+Time Elapsed: 1.2313 ms
+
+
+Running with N = 16777216
+Reduced sum: -1397.88
+Time Elapsed: 1.19747 ms
+
+
+Running with N = 33554432
+Reduced sum: 3457.47
+Time Elapsed: 1.55046 ms
+
+
+Running with N = 67108864
+Reduced sum: 1039.27
+Time Elapsed: 2.05155 ms
+
+
+Running with N = 134217728
+Reduced sum: -2395.05
+Time Elapsed: 3.12669 ms
+
+
+Running with N = 268435456
+Reduced sum: -4115.46
+Time Elapsed: 5.19344 ms
+
+
+Running with N = 536870912
+Reduced sum: 1792.29
+Time Elapsed: 12.4174 ms
+
+
+Running with N = 1073741824
+Reduced sum: 10171.2
+Time Elapsed: 19.5721 ms
+
+
+
+Threads = 512
+Running with N = 1024
+Reduced sum: -3.95147
+Time Elapsed: 0.891904 ms
+
+
+Running with N = 2048
+Reduced sum: -9.7161
+Time Elapsed: 1.03926 ms
+
+
+Running with N = 4096
+Reduced sum: 29.6617
+Time Elapsed: 0.848768 ms
+
+
+Running with N = 8192
+Reduced sum: -45.9356
+Time Elapsed: 0.840928 ms
+
+
+Running with N = 16384
+Reduced sum: -114.849
+Time Elapsed: 0.822272 ms
+
+
+Running with N = 32768
+Reduced sum: 56.1869
+Time Elapsed: 0.897888 ms
+
+
+Running with N = 65536
+Reduced sum: -164.564
+Time Elapsed: 0.9768 ms
+
+
+Running with N = 131072
+Reduced sum: 51.5068
+Time Elapsed: 0.789792 ms
+
+
+Running with N = 262144
+Reduced sum: -69.5871
+Time Elapsed: 0.913408 ms
+
+
+Running with N = 524288
+Reduced sum: 78.4547
+Time Elapsed: 0.983648 ms
+
+
+Running with N = 1048576
+Reduced sum: -814.838
+Time Elapsed: 0.92736 ms
+
+
+Running with N = 2097152
+Reduced sum: -885.853
+Time Elapsed: 1.05702 ms
+
+
+Running with N = 4194304
+Reduced sum: 557.805
+Time Elapsed: 1.01306 ms
+
+
+Running with N = 8388608
+Reduced sum: -534.372
+Time Elapsed: 1.23702 ms
+
+
+Running with N = 16777216
+Reduced sum: -1017.2
+Time Elapsed: 1.24534 ms
+
+
+Running with N = 33554432
+Reduced sum: -826.549
+Time Elapsed: 1.57661 ms
+
+
+Running with N = 67108864
+Reduced sum: -6561.65
+Time Elapsed: 2.03062 ms
+
+
+Running with N = 134217728
+Reduced sum: -15097.6
+Time Elapsed: 3.09485 ms
+
+
+Running with N = 268435456
+Reduced sum: -6002.63
+Time Elapsed: 5.17907 ms
+
+
+Running with N = 536870912
+Reduced sum: -3064.07
+Time Elapsed: 12.73 ms
+
+
+Running with N = 1073741824
+
+
+Threads = 1024
+Running with N = 1024
+Reduced sum: 7.85815
+Time Elapsed: 5.27258 ms
+
+
+Running with N = 2048
+Reduced sum: 29.0701
+Time Elapsed: 0.824064 ms
+
+
+Running with N = 4096
+Reduced sum: 13.888
+Time Elapsed: 0.79872 ms
+
+
+Running with N = 8192
+Reduced sum: 5.37094
+Time Elapsed: 0.917504 ms
+
+
+Running with N = 16384
+Reduced sum: 3.87057
+Time Elapsed: 0.879456 ms
+
+
+Running with N = 32768
+Reduced sum: 86.354
+Time Elapsed: 0.907744 ms
+
+
+Running with N = 65536
+Reduced sum: 37.5213
+Time Elapsed: 0.718336 ms
+
+
+Running with N = 131072
+Reduced sum: 269.747
+Time Elapsed: 1.01194 ms
+
+
+Running with N = 262144
+Reduced sum: -72.1676
+Time Elapsed: 0.745472 ms
+
+
+Running with N = 524288
+Reduced sum: -174.289
+Time Elapsed: 1.05424 ms
+
+
+Running with N = 1048576
+Reduced sum: -227.817
+Time Elapsed: 0.792832 ms
+
+
+Running with N = 2097152
+Reduced sum: -521.157
+Time Elapsed: 0.928768 ms
+
+
+Running with N = 4194304
+Reduced sum: -595.448
+Time Elapsed: 1.03766 ms
+
+
+Running with N = 8388608
+Reduced sum: 521.609
+Time Elapsed: 1.18854 ms
+
+
+Running with N = 16777216
+Reduced sum: -2935.32
+Time Elapsed: 1.39568 ms
+
+
+Running with N = 33554432
+Reduced sum: -4086.89
+Time Elapsed: 1.77894 ms
+
+
+Running with N = 67108864
+Reduced sum: -210.156
+Time Elapsed: 2.65226 ms
+
+
+Running with N = 134217728
+Reduced sum: 9721.94
+Time Elapsed: 4.51808 ms
+
+
+Running with N = 268435456
+Reduced sum: -7584.67
+Time Elapsed: 8.40483 ms
+
+
+Running with N = 536870912
+Reduced sum: 9613.01
+Time Elapsed: 19.3523 ms
+
+
+Running with N = 1073741824
+Reduced sum: 19621
+Time Elapsed: 31.2039 ms
+
+
+

@@ -1,0 +1,23 @@
+
+The following have been reloaded with a version change:
+  1) gcc/11.3.0 => gcc/.11.3.0_cuda
+
+task1.cu(24): error: identifier "initialize_matrix" is undefined
+
+task1.cu(36): error: identifier "allocate_and_copy" is undefined
+
+task1.cu(52): error: identifier "copy_output" is undefined
+
+task1.cu(73): error: identifier "free_device_memory" is undefined
+
+4 errors detected in the compilation of "task1.cu".
+/var/spool/slurmd/job2057082/slurm_script:21: command not found:   echo \n
+/var/spool/slurmd/job2057082/slurm_script:21: command not found:   echo \n
+/var/spool/slurmd/job2057082/slurm_script:21: command not found:   echo \n
+/var/spool/slurmd/job2057082/slurm_script:21: command not found:   echo \n
+/var/spool/slurmd/job2057082/slurm_script:21: command not found:   echo \n
+/var/spool/slurmd/job2057082/slurm_script:21: command not found:   echo \n
+/var/spool/slurmd/job2057082/slurm_script:21: command not found:   echo \n
+/var/spool/slurmd/job2057082/slurm_script:21: command not found:   echo \n
+/var/spool/slurmd/job2057082/slurm_script:21: command not found:   echo \n
+/var/spool/slurmd/job2057082/slurm_script:21: command not found:   echo \n
